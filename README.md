@@ -18,8 +18,8 @@ Worked on below technology Stack.
 - Pyspark ( to do fearture Engineering)
 
 # Tasks 
-1.Exploratory Data Analysis
-2.Perform Feature Engineering
+1. Exploratory Data Analysis
+2. Perform Feature Engineering
 
 # Results 
 1. performed EDA
